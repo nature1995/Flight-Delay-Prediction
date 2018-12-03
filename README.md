@@ -1,6 +1,6 @@
 # Flight-Delay-Prediction
 
-This repo is EE 608 Final Project: Flight-Delay-Prediction 
+This repo is 2018 Fall EE608 Final Project: Flight Delay Prediction
 
 ### Team Member: 
 Ziran Gong zgong5@stevens.edu Yuqing Luo yluo27@stevens.edu Bowen Li bli50@stevens.edu
