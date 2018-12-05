@@ -50,7 +50,7 @@ conda install package-name
 ```
 * visualization: `matplolib, seaborn, basemap`
 * data manipulation: `pandas, numpy`
-* modeling: `sklearn, scipy`
+* modeling: `scikit-learn, scipy`
 
 2.3 Install other package
 
