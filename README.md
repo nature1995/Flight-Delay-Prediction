@@ -47,15 +47,15 @@ Using Anaconda Prompt
 ```sh
 conda install package-name
 ```
-* visualization: matplolib, seaborn, basemap
-* data manipulation: pandas, numpy
-* modeling: sklearn, scipy
+* visualization: `matplolib, seaborn, basemap`
+* data manipulation: `pandas, numpy`
+* modeling: `sklearn, scipy`
 
 2.3 Install other package
 
 Search and apply the package name below on Anaconda
 
-* pydot, python-graphviz, pillow
+* `pydot, python-graphviz, pillow`
 
 #### Step3:
 
