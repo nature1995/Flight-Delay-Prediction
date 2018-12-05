@@ -23,11 +23,12 @@ https://sites.google.com/view/ee608
 #### Step1:
 
 1.1 Install Anaconda
+
 <div class="homepage__button_row">
-  <a href="https://www.anaconda.com/download/#windows">Windows</a>&nbsp
-  <a href="https://www.anaconda.com/download/#macos">macOS</a>&nbsp
-  <a href="https://www.anaconda.com/download/#linux">Linux</a>&nbsp
-</div>
+  <a href="https://www.anaconda.com/download/#windows">Windows</a>&nbsp  
+  <a href="https://www.anaconda.com/download/#macos">macOS</a>&nbsp  
+  <a href="https://www.anaconda.com/download/#linux">Linux</a>&nbsp  
+</div><br>
 
 1.2 Create Python3.6 environment
 ```
