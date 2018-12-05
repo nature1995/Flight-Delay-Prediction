@@ -36,7 +36,7 @@ conda create -n ee608 python=3.6
 ```
 #### Step2:
 
-2.1 install Jupyter Notebook & JupyterLab 
+2.1 Install Jupyter Notebook & JupyterLab 
 
 2.2 Install python package 
 
