@@ -1,6 +1,6 @@
 # Flight-Delay-Prediction
 
-This repo is 2018 Fall EE608 Final Project: Flight Delay Prediction
+This repo is 2018 Fall EE608 Final Project: The Prediction of Flight Delays Using Regression Method
 
 ### Team Member: 
 
@@ -9,8 +9,7 @@ Ziran Gong zgong5@stevens.edu Yuqing Luo yluo27@stevens.edu Bowen Li bli50@steve
 ### Dataset
 
 Due to the size, I upload all the dataset to google drive.  
-In this project, we use part of data which is the first month.  
-We use the first 3 week to predick the last week in this month.
+In this project, we use data first month which using the first 3 week to predict the last week.
 
 https://drive.google.com/drive/folders/1LDDwiQW-74P5NFDTEpCAfETxSIBNu7cC?usp=sharing
 
@@ -74,7 +73,7 @@ After run it to the final step, you can get the flight delay prediction result f
 
 **Airlines Rank & Recommandation**
 ```
-airlines-rank.ipynb
+rank.ipynb
 ```
 Use `Shift + Enter` to run code step by step.   
 Then, you can get the results in the data processing process.  
@@ -83,13 +82,9 @@ Finally, you can get the rank histogram and the recommandation.
 ### Conclusion
 
 * Data analysis algorithms are applied to predict flight delay. 
-
 * Airlines are ranked  for recommendation purpose. 
-
 * In model 1, cross-validation can avoid bias introduced by splitting data.
-
 * In model 2, compared with linear regression, polynomial regression with ridge regression is the wining method with MSE (54.99).
-
 * Include almost all the factors to rank airline for users.
 
 
