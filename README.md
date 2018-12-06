@@ -64,27 +64,34 @@ Search and apply the package name below on Anaconda
 
 ### Run code  
 **Flight delay prediction**
-
+```
+flights-delay-prediction.ipynb
+```
 Use `Shift + Enter` to run code step by step.  
 Then, you can get the result of each process in the middle of the operation.  
 After run it to the final step, you can get the flight delay prediction result for two model.
 
 
 **Airlines Rank & Recommandation**
-
+```
+airlines-rank.ipynb
+```
 Use `Shift + Enter` to run code step by step.   
 Then, you can get the results in the data processing process.  
 Finally, you can get the rank histogram and the recommandation.
 
 ### Conclusion
 
-* Data analysis algorithms are applied to predict flight delay.
+* Data analysis algorithms are applied to predict flight delay. 
 
 * Airlines are ranked  for recommendation purpose. 
 
-* After modeling with two methods, model 2 with ridge regression and regularization is the wining method with MSE (54.99).
+* In model 1, cross-validation can avoid bias introduced by splitting data.
+
+* In model 2, compared with linear regression, polynomial regression with ridge regression is the wining method with MSE (54.99).
 
 * Include almost all the factors to rank airline for users.
+
 
 
 
