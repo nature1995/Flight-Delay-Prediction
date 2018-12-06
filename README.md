@@ -61,7 +61,12 @@ Search and apply the package name below on Anaconda
 
 3.1 Start JupyterLab  
 
-### Run code  
+### Run code
+
+**Download the dataset**
+
+Before you run the code, you need to downlown all the 3 datasets using the link and make sure you put the code and datasets in the same folder.
+
 **Flight delay prediction**
 ```
 flights-delay-prediction.ipynb
@@ -87,7 +92,9 @@ Finally, you can get the rank histogram and the recommandation.
 * In model 2, compared with linear regression, polynomial regression with ridge regression is the wining method with MSE (54.99).
 * Include almost all the factors to rank airline for users.
 
+## Notice:
 
+Make sure you download all the datasets and put the same folder before run the code!!!
 
 
 
